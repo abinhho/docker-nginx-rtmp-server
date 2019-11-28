@@ -8,7 +8,7 @@ services:
     # ports from container exposed to the docker machine and the guest machine
     ports:
       # 80 on the host, 8080 on the guest. Websever listens on 8080
-      - "81:80" # http
+      - "8182:80" # http
       - "1935:1935" # http
       # - "443:443" # https
     tty: true

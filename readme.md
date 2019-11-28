@@ -14,7 +14,7 @@
 ### Play HLS
 
     // If using chrome, you need install Play HLS M3u8 extension
-    http://localhost/hls/stream01.m3u8
+    http://localhost:8182/hls/stream01.m3u8
 
 ### View Docker status
 
